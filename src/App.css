@@ -1,0 +1,81 @@
+.App {
+  text-align: center;
+  background-color: #864646;
+}
+
+.main{
+  background-color: #23252C;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 0;
+}
+.main2{
+  background-color: #1A1B21;
+  width: 300px;
+  margin-left: 800px;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 0;
+  
+
+}
+
+.main3{
+  background-color: #161619;
+  width: 300px;
+  margin-left: 800px;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 0;
+  
+}
+
+
+
+
+.ls {
+  margin-top: 30px;
+  margin-left: 800px;
+  width: 300px; /* width of container */
+    height: 300px; /* height of container */
+  object-fit: cover;
+  object-position: 0px 0px;
+  
+  border-radius: 25px;
+
+}
+
+.name{
+  color: white;
+  
+  text-align: center;
+
+}
+
+.btne{
+  margin-left: 25px;
+  background-color: #D1D5DB;
+  width: 115px;
+  height: 35px;
+  border-radius: 4px;
+  
+}
+
+.btnl{
+  margin-left: 10px;
+  background-color: #5093E2;
+  width: 115px;
+  height: 35px;
+  border-radius: 4px;
+  
+}
+
+.about{
+  
+  color: white;
+  padding: 10px;
+  font-size: small;
+}
+.h1, h2, h3, p{
+  margin: 0;
+}
